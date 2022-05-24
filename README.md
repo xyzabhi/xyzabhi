@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhinav
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on react js projects.
 - 📫 Yo can contact me at email:- abhinavkumar8083@gmail.com
 
