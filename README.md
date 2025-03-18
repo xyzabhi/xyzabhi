@@ -32,6 +32,8 @@
 ## 📈 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xyzabhi&theme=tokyonight)  
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzabhi&show_icons=true&theme=tokyonight)  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=xyzabhi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  
+![GitHub Contributions Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyzabhi&theme=tokyonight)  
 
 ---
 
