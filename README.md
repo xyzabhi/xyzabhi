@@ -1,5 +1,5 @@
 # 🚀 Abhinav Kumar | Full-Stack Developer  
-🌟 Passionate about building scalable and high-performance applications.  
+🌟 Passionate about building scalable and high-performance applications  
 
 ## 👋 About Me  
 - 🔥 **Frontend Engineer** specializing in **React.js, React Native, Next.js**  
